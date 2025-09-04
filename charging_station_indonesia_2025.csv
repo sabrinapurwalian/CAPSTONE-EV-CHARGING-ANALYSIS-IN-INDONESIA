@@ -1,0 +1,413 @@
+id,name,city,country_code,state_province,latitude,longitude,ports,power_kw,power_class,is_fast_dc,readiness_category
+460417,Alun Alun Peliatan Ubud,Ubud,ID,Bali,-8.517803,115.268901,1,100.0,DC_FAST_(50-149kW),True,Lagging
+460416,SPKLU Puspem Badung,Mengwi,ID,Bali,-8.602436,115.180445,1,200.0,DC_ULTRA_(>=150kW),True,Lagging
+460415,Rest Area KM 38 B Jagorawi,Bogor,ID,Jawa Barat,-6.576014,106.838077,1,120.0,DC_FAST_(50-149kW),True,Lagging
+460407,Rest Area KM 753 B Surabaya Gempol,Gempo,ID,East Java,-7.417816,112.693708,1,47.0,AC_HIGH_(22-49kW),False,Lagging
+460402,"Rest Area Soka , Raya DPS Gilimanuk",Kabupaten Tabanan,ID,Bali,-8.528572,114.996856,1,50.0,DC_FAST_(50-149kW),True,Lagging
+460401,Hotel Tentrem Yogayakarta,Yogyakarta,ID,Daerah Istimewa Yogyakarta,-7.773581,110.368456,1,50.0,DC_FAST_(50-149kW),True,Lagging
+460390,PLN UP2 Jawa Timur,Surabaya,ID,Jawa Timur,-7.265742,112.743211,1,100.0,DC_FAST_(50-149kW),True,Lagging
+460383,Rest Area KM 130 B Cipali,Karawang Regency,ID,West Java,-6.576976,107.960551,1,60.0,DC_FAST_(50-149kW),True,Lagging
+460382,Rest Area KM 102 A Tol Cipali,Kabupaten Subang,ID,Jawa Barat,-6.50815,107.721936,1,50.0,DC_FAST_(50-149kW),True,Lagging
+307901,VOLTRON,Jakarta Selatan,ID,DKI Jakarta,-6.225336,106.833726,2,22.0,AC_HIGH_(22-49kW),False,Lagging
+307724,SPKLU Mobile Anyer,,ID,,-6.055259,105.913906,1,25.0,AC_HIGH_(22-49kW),False,Lagging
+307711,SPKLU PLN ULP MUNTOK,,ID,,-2.060107,105.166879,1,100.0,DC_FAST_(50-149kW),True,Lagging
+307710,SPKLU PLN UPK Bangka Belitung,,ID,,-2.077998,106.149564,1,25.0,AC_HIGH_(22-49kW),False,Lagging
+307709,SPKLU PLN ULP PURWOREJO,,ID,,-7.713135,110.011769,1,25.0,AC_HIGH_(22-49kW),False,Lagging
+307708,SPKLU PLN ULP KEBUMEN,,ID,,-7.675118,109.670521,1,25.0,AC_HIGH_(22-49kW),False,Lagging
+307707,SPKLU PLN ULP CIPAYUNG,,ID,,-6.650782,106.89586,2,120.0,DC_FAST_(50-149kW),True,Lagging
+307706,SPKLU PLN UP3 CIANJUR,,ID,,-6.813677,107.136894,1,50.0,DC_FAST_(50-149kW),True,Lagging
+307705,SPKLU PLN KARANGASEM,,ID,,-8.452266,115.616703,1,50.0,DC_FAST_(50-149kW),True,Lagging
+307704,SPKLU MANDALIKA (Kawasan ITDC),,ID,,-8.890898,116.283265,1,25.0,AC_HIGH_(22-49kW),False,Lagging
+307703,SPKLU SANTIKA MATARAM,,ID,,-8.582503,116.107704,1,50.0,DC_FAST_(50-149kW),True,Lagging
+307702,SPKLU MVP GRAND NATURA,,ID,,-8.568141,116.117523,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+307701,SPKLU PLN UP3 Malang,,ID,,-7.974106,112.630168,1,60.0,DC_FAST_(50-149kW),True,Lagging
+307700,SPKLU PLN Rest Area Tlogo KM 445 B,,ID,,-7.258668,110.462728,1,120.0,DC_FAST_(50-149kW),True,Lagging
+307640,SPKLU PLN UP3 CILACAP,,ID,,-7.722942,109.01153,1,25.0,AC_HIGH_(22-49kW),False,Lagging
+307639,SPKLU PLN ULP TASIKMALAYA KOTA,,ID,,-7.327229,108.22263,1,25.0,AC_HIGH_(22-49kW),False,Lagging
+307638,SPKLU KP MALANGBONG,,ID,,-7.060874,108.085795,1,100.0,DC_FAST_(50-149kW),True,Lagging
+307637,SPKLU CIARO NAGREG (SPBU),,ID,,-7.036074,107.926513,1,120.0,DC_FAST_(50-149kW),True,Lagging
+307636,SPKLU PLN UP3 SUMEDANG,,ID,,-6.837553,107.916653,1,25.0,AC_HIGH_(22-49kW),False,Lagging
+307635,SPKLU PLN ULP GARUT KOTA,,ID,,-7.194802,107.88633,1,50.0,DC_FAST_(50-149kW),True,Lagging
+307634,SPKLU PLN ULP PAMEUNGPEUK,,ID,,-7.646511,107.708567,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+307633,SPKLU PLN ULP SUMENEP,,ID,,-7.013525,113.86948,1,40.0,AC_HIGH_(22-49kW),False,Lagging
+307632,SPKLU PLN UP3 PAMEKASAN,,ID,,-7.161321,113.492306,1,40.0,AC_HIGH_(22-49kW),False,Lagging
+307631,SPKLU ONE STOP CHARGING ST SURAPATI,,ID,,-6.899051,107.621008,1,100.0,DC_FAST_(50-149kW),True,Lagging
+307630,SPKLU PLN ULP BANDUNG TIMUR,,ID,,-6.89936,107.641227,1,60.0,DC_FAST_(50-149kW),True,Lagging
+307564,SPKLU LOMBOK EPICENTRUM MALL,Mataram City,ID,West Nusa Tenggara,-8.594529,116.105142,1,25.0,AC_HIGH_(22-49kW),False,Lagging
+307563,SPKLU PLN ULP PANTON LABU,Aceh,ID,Sumatra,5.115864,97.458123,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+307562,SPKLU HOTEL Umega,Kabupaten Dharmasraya,ID,Sumatera Barat,-1.021796,101.604472,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+307561,SPKLU Hotel Sibayak Internasional Berastagi,Karo,ID,Sumatera Utara,3.200697,98.505161,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+307560,SPKLU PLN (Persero) ULP Teunom,,ID,,4.444632,95.813204,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+307559,SPKLU KORDA LAMNO,,ID,,5.092405,95.371652,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+307557,SPKLU PLN ULP CALANG,,ID,,4.635917,95.582311,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+307556,SPKLU PLN ULP JANTHO,,ID,,5.301785,95.598068,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+307551,SPKLU PLN ULP KUTACANE,,ID,,3.480286,97.812487,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+307548,SPKLU PLN UP3 BINJAI,,ID,,3.614593,98.495762,1,30.0,AC_HIGH_(22-49kW),False,Lagging
+307545,SPKLU PLN HOME SMART MEDAN,,ID,,3.590557,98.65239,1,25.0,AC_HIGH_(22-49kW),False,Lagging
+307542,SPKLU PLN ROYAL SUMATERA MEDAN,,ID,,3.521887,98.641357,1,25.0,AC_HIGH_(22-49kW),False,Lagging
+307536,SPKLU Hotel SUN IN Pangandaran,,ID,,-7.701127,108.658369,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+307535,SPKLU PLN HOTEL Grand Palma Pangandaran,,ID,,-7.70442,108.65644,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+307534,SPKLU The Allure Vilas Pangandaran,,ID,,-7.68449,108.638372,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+307533,SPKLU PLN POSKO CIWIDEY,,ID,,-7.104377,107.465925,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+307532,SPKLU Gedung Budaya Sabilulungan,,ID,,-7.020604,107.530309,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+307531,SPKLU Rest Area KM 125 B Padalarang,,ID,,-6.885796,107.520259,1,120.0,DC_FAST_(50-149kW),True,Lagging
+307530,Rest Area KM 260 B Brebes,,ID,,-6.906416,108.983196,1,120.0,DC_FAST_(50-149kW),True,Lagging
+307529,SPKLU Astra Rest Area KM 456 A,,ID,,-7.3271,110.532194,1,120.0,DC_FAST_(50-149kW),True,Lagging
+307528,SPKLU Rest Area KM 439 A,,ID,,-7.210529,110.44981,1,7.0,AC_L1_(<7.5kW),False,Lagging
+307527,Rest Area 338A Pekalongan,Pekalongan,ID,Java,-6.948323,109.669696,1,100.0,DC_FAST_(50-149kW),True,Lagging
+307375,SPKLU PLN ULP KISARAN,,ID,,2.982265,99.62479,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+307374,SPKLU POSKO YANTEK BELILES,Riau,ID,Sumatra,-0.536909,102.415936,1,30.0,AC_HIGH_(22-49kW),False,Lagging
+307373,SPKLU PLN ULP SIAK SRI INDRAPURA,Riau,ID,Sumatra,0.800296,102.043649,1,30.0,AC_HIGH_(22-49kW),False,Lagging
+307372,SPKLU PLN KP SEI PAKNING,Riau,ID,Sumatra,1.360122,102.156568,1,30.0,AC_HIGH_(22-49kW),False,Lagging
+307371,SPKLU PLN ULP BENGKALIS,Riau,ID,,1.475754,102.121357,1,30.0,AC_HIGH_(22-49kW),False,Lagging
+307370,SPKLU PLN ULP DURI,Riau,ID,,1.278434,101.182113,1,30.0,AC_HIGH_(22-49kW),False,Lagging
+307369,SPKLU PLN ULP PASIR PANGARAIAN,,ID,,0.862978,100.296942,1,30.0,AC_HIGH_(22-49kW),False,Lagging
+307368,SPKLU PLN ULP Bagan Siapi Api,Riau,ID,Sumatra,2.158027,100.810079,1,30.0,AC_HIGH_(22-49kW),False,Lagging
+307367,Dunia Barusa Banda ACEH (UFC),Aceh,ID,,5.541752,95.330728,1,150.0,DC_ULTRA_(>=150kW),True,Lagging
+307366,SPKLU PLN ULP PERAWANG,,ID,,0.668565,101.588879,1,30.0,AC_HIGH_(22-49kW),False,Lagging
+307365,SPKLU PLN ULP BANGKINANG,,ID,,0.334724,101.020824,1,30.0,AC_HIGH_(22-49kW),False,Lagging
+307364,SPKLU PLN ICON + SBU SBT,,ID,,0.45327,101.418548,1,30.0,AC_HIGH_(22-49kW),False,Lagging
+307363,SPKLU UNAND,Padang City,ID,West Sumatra,-0.917584,100.457764,1,50.0,DC_FAST_(50-149kW),True,Lagging
+307362,SPKLU PLN UP3 SOLOK,,ID,,-0.79973,100.652549,1,25.0,AC_HIGH_(22-49kW),False,Lagging
+307361,SPKLU PLN ULP LUBUK LINGGAU,,ID,,-3.277244,102.897583,1,60.0,DC_FAST_(50-149kW),True,Lagging
+307360,SPKLU PLN ULP TEMBILAHAN,,ID,,-0.319995,103.152848,1,30.0,AC_HIGH_(22-49kW),False,Lagging
+307359,SPKLU PLN UP3 MUARA BUNGO,,ID,,-1.486359,102.118337,1,30.0,AC_HIGH_(22-49kW),False,Lagging
+307216,SPKLU PLN UP3 SUBULUSSALAM,Subulussalam,ID,Aceh,2.630555,98.018679,1,25.0,AC_HIGH_(22-49kW),False,Lagging
+307212,SPKLU PLN HILLPARK SIBOLANGIT,Sibolangit,ID,,3.281394,98.555298,1,25.0,AC_HIGH_(22-49kW),False,Lagging
+307211,SPKLU Kantor Gubernur Provinsi Riau,Pekanbaru,ID,Riau,0.516663,101.446231,1,200.0,DC_ULTRA_(>=150kW),True,Lagging
+307203,SPKLU PLN UP3 LANGSA,Langsa,ID,,4.471001,97.968452,1,100.0,DC_FAST_(50-149kW),True,Lagging
+307202,SPKLU PLN UP3 SIGLI,Sigli,ID,,5.380046,95.955609,1,25.0,AC_HIGH_(22-49kW),False,Lagging
+307173,SPKLU PLN IKN 1,,ID,East Kalimantan,-0.971613,116.712472,1,25.0,AC_HIGH_(22-49kW),False,Lagging
+307169,SPKLU WING HUB KUALANAMU,Kualanamu,ID,Sumatra Utara,3.598582,98.829853,1,60.0,DC_FAST_(50-149kW),True,Lagging
+307167,SPKLU PLN UID SUMATRA UTARA,Medan,ID,Sumatra Utara,3.615364,98.672299,1,200.0,DC_ULTRA_(>=150kW),True,Lagging
+307163,SPKLU PLN ULP TAKENGON,Takengon,ID,Aceh Tengah,4.63299,96.842686,1,30.0,AC_HIGH_(22-49kW),False,Lagging
+307162,SPKLU Hausnummer 11,Padang,ID,Sumatra Barat,-0.953134,100.355198,1,200.0,DC_ULTRA_(>=150kW),True,Lagging
+307161,SPKLU PLN UP3 PADANGSIDIMPUAN,Padangsidimpuan,ID,Sumatra Utara,1.40378,99.279177,1,30.0,AC_HIGH_(22-49kW),False,Lagging
+307160,SPKLU PLN UP3 SIBOLGA,Sumatra Utara,ID,Sibolga,1.74422,98.779548,1,200.0,DC_ULTRA_(>=150kW),True,Lagging
+307086,Spklu PLN BYD Arista,Bandung,ID,Jawa Barat,-6.93864,107.675918,1,60.0,DC_FAST_(50-149kW),True,Lagging
+307085,SPKLU PLN ULP Stabat,Sumatra Utara,ID,Stabat,3.796462,98.441981,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+307084,SPKLU PLN ULP Kuala Simpang,Aceh,ID,Kuala Simpang,4.394562,98.076906,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+307083,SPKLU PLN UP3 Payakumbuh,,ID,Sumatra Barat,-0.224642,100.631382,1,50.0,DC_FAST_(50-149kW),True,Lagging
+306934,SPKLU PLN ULP Sabang,,ID,Aceh,5.875101,95.328051,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+306933,SPKLU PLN Ranting Balige,Balige,ID,Sumatera Utara,2.335575,99.062535,1,60.0,DC_FAST_(50-149kW),True,Lagging
+306932,Rest Area KM 36B Tol Pekanbaru - Bangkinang,,ID,Riau,0.411056,101.049202,1,50.0,DC_FAST_(50-149kW),True,Lagging
+306931,SPKLU Rest Area KM 36A Tol Pekanbaru-Bangkinang,,ID,Riau,0.411774,101.047171,1,50.0,DC_FAST_(50-149kW),True,Lagging
+306930,SPKLU PLN Rayon Taluk Kuantan,,ID,Riau,-0.531407,101.570498,1,50.0,DC_FAST_(50-149kW),True,Lagging
+306929,SPKLU Rayon Teluk Segara,,ID,Bengkulu,-3.791165,102.250036,1,60.0,DC_FAST_(50-149kW),True,Lagging
+306925,SPKLU PLN,,ID,Riau,0.501916,101.409989,1,50.0,DC_FAST_(50-149kW),True,Lagging
+306924,SPKLU PLN UP3 PEMATANGSIANTAR,,ID,Sumatera Utara,2.957198,99.058535,1,30.0,AC_HIGH_(22-49kW),False,Lagging
+306923,SPKLU PLN UP3 LUBUK PAKAM,,ID,Sumatera Utara,3.546844,98.865229,1,25.0,AC_HIGH_(22-49kW),False,Lagging
+306922,SPKLU PLN UIW SUMBAR,,ID,Sumatera Barat,-0.945727,100.371972,1,60.0,DC_FAST_(50-149kW),True,Lagging
+306921,SPKLU PLN ULP SAMALANGA,,ID,Aceh,5.194786,96.367133,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+306920,SPKLU UP3 Meulaboh,Meulaboh,ID,Aceh,4.152199,96.12984,1,50.0,DC_FAST_(50-149kW),True,Lagging
+306919,SPKLU PLN ULP PANGURURAN,Pangururan,ID,Sumatera Utara,2.607809,98.69572,1,60.0,DC_FAST_(50-149kW),True,Lagging
+306918,SPKLU Arista Power,,ID,Sumatera Utara,3.607069,98.66119,1,60.0,DC_FAST_(50-149kW),True,Lagging
+306917,SPKLU HVT Amir Hamzah,,ID,Sumatera Utara,3.608172,98.649045,1,50.0,DC_FAST_(50-149kW),True,Lagging
+306916,SPKLU PLN ULP BRASTAGI,Berastagi,ID,Sumatera Utara,3.18836,98.50805,1,30.0,AC_HIGH_(22-49kW),False,Lagging
+306915,SPKLU PLN ULP PARAPAT,Parapat,ID,Sumatera Utara,2.6688,98.94296,1,25.0,AC_HIGH_(22-49kW),False,Lagging
+306914,SPKLU Rest Area KM 45 A Pekanbaru-Dumai,Kandis,ID,Riau,0.936716,101.230488,1,50.0,DC_FAST_(50-149kW),True,Lagging
+306913,SPKLU Rest Area KM 65 B Pekanbaru-Dumai,,ID,Riau,1.111369,101.258186,1,50.0,DC_FAST_(50-149kW),True,Lagging
+306912,SPKLU PLN ULP BAGAN BATU,Bagan Batu,ID,Riau,1.6964,100.4059,1,30.0,AC_HIGH_(22-49kW),False,Lagging
+306897,SPKLU PLN UIW ACEH,,ID,Aceh,5.56234,95.33449,2,100.0,DC_FAST_(50-149kW),True,Lagging
+306896,SPKLU PLN,Langsa,ID,Aceh,4.47233,97.9647,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+306895,SPKLU PLN ULP BIREUEN,Bireuen,ID,Aceh,5.20422,96.71819,1,25.0,AC_HIGH_(22-49kW),False,Lagging
+306894,SPKLU PLN UP3 LHOKSEUMAWE,,ID,Aceh,5.16987,97.13449,2,100.0,DC_FAST_(50-149kW),True,Lagging
+306870,SPKLU CityView,,ID,Sumatera Utara,3.55929,98.68352,1,50.0,DC_FAST_(50-149kW),True,Lagging
+306869,SPKLU PLN ULP Tebing Tinggi,,ID,Sumatera Utara,3.33498,99.16298,1,25.0,AC_HIGH_(22-49kW),False,Lagging
+306868,SPKLU PLN ULP RANTAUPRAPAT,,ID,Sumatera Utara,2.1062,99.82493,1,60.0,DC_FAST_(50-149kW),True,Lagging
+306867,SPKLU PLN UP3 DUMAI,Dumai,ID,Riau,1.66978,101.44739,1,50.0,DC_FAST_(50-149kW),True,Lagging
+306866,SPKLU PLN UP3 PEKANBARU,Pekanbaru,ID,Riau,0.53607,101.45096,1,50.0,DC_FAST_(50-149kW),True,Lagging
+306865,SPKLU PLN S2JB Demang,Palembang,ID,Sumatera Selatan,-2.98244,104.7245,1,60.0,DC_FAST_(50-149kW),True,Lagging
+306765,SPKLU PLN ULP PANGANDARAN,Pangandaran,ID,Jawa Barat,-7.683848,108.657835,1,25.0,AC_HIGH_(22-49kW),False,Lagging
+306764,SPKLU PLN UP3 JAMBI,Jambi,ID,,-1.607463,103.592587,1,60.0,DC_FAST_(50-149kW),True,Lagging
+306752,SPKLU Balai Kota Bandung,Bandung,ID,Jawa Barat,-6.911711,107.609513,1,25.0,AC_HIGH_(22-49kW),False,Lagging
+303207,Rest Area KM 311A,Ogan Komering Ilir Regency,ID,South Sumatra,-3.474701,104.923832,1,200.0,DC_ULTRA_(>=150kW),True,Lagging
+303206,Rest Area KM 306B,Ogan Komering Ilir Regency,ID,South Sumatra,-3.511344,104.942075,1,200.0,DC_ULTRA_(>=150kW),True,Lagging
+303205,Rest Area KM 234 A,Mesuji Regency,ID,Lampung,-4.08116,105.15866,1,50.0,DC_FAST_(50-149kW),True,Lagging
+303204,Rest Area KM 215B Tol Terpeka,West Tulang Bawang Regency,ID,Lampung,-4.248869,105.138668,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+303203,Rest Area KM 208A,Tulang Bawang Regency,ID,Lampung,-4.296767,105.160139,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+303202,Novotel Lampung,Bandar Lampung,ID,Lampung,-5.440651,105.289122,1,7.0,AC_L1_(<7.5kW),False,Lagging
+303201,SPKLU PLN ULP WONOSOBO,Kabupaten Wonosobo,ID,Jawa Tengah,-7.368952,109.899817,1,25.0,AC_HIGH_(22-49kW),False,Lagging
+302513,SPKLU Semawang Sanur,Denpasar Selatan,ID,Bali,-8.705006,115.249618,1,60.0,DC_FAST_(50-149kW),True,Lagging
+302512,SPKLU Tohpati Denpasar,Denpasar Timur,ID,Bali,-8.635862,115.256319,1,200.0,DC_ULTRA_(>=150kW),True,Lagging
+302511,Dunkin Teuku Umar Dauh,Denpasar,ID,Bali,-8.681472,115.199072,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+302510,Rest Area KM 833 B Tol Pasuruan–Probolinggo,Kabupaten Probolinggo,ID,Jawa Timur,-7.809063,113.171535,1,50.0,DC_FAST_(50-149kW),True,Lagging
+302509,Rest Area KM 833A Tol Pasuruan–Probolinggo,Kabupaten Probolinggo,ID,Jawa Timur,-7.808051,113.171447,1,50.0,DC_FAST_(50-149kW),True,Lagging
+302508,Rest Area KM 819B Tol Pasuruan–Probolinggo,Kabupaten Probolinggo,ID,Jawa Timur,-7.748942,113.070602,1,50.0,DC_FAST_(50-149kW),True,Lagging
+302507,Rest Area KM 819A Tol Pasuruan–Probolinggo,Probolinggo Regency,ID,Jawa Timur,-7.747684,113.070856,1,50.0,DC_FAST_(50-149kW),True,Lagging
+302506,Rest Area KM 424 B Semarang,Semarang City,ID,Central Java,-7.017727,110.396246,1,50.0,DC_FAST_(50-149kW),True,Lagging
+298984,Rest Area KM 56B Tol Palembang - Prabumulih,Ogan Ilir Regency,ID,South Sumatra,-3.439044,104.46031,1,50.0,DC_FAST_(50-149kW),True,Lagging
+298983,Rest Area KM 56 A Tol Palembang - Prabumulih,Ogan Ilir Regency,ID,South Sumatra,-3.439787,104.461604,1,50.0,DC_FAST_(50-149kW),True,Lagging
+298982,Rest Area KM 306B Tol Terbanggi Besar - Pematang Panggang - Kayu Agung,Ogan Komering Ilir Regency,ID,South Sumatra,-3.511536,104.942075,1,200.0,DC_ULTRA_(>=150kW),True,Lagging
+298981,Rest Area KM 311A Tol Terbangi Besar - Pematang Panggang Kayu Agung,Ogan Komering Ilir Regency,ID,South Sumatra,-3.474873,104.923843,1,200.0,DC_ULTRA_(>=150kW),True,Lagging
+298928,PLN ULP Bantul,Kabupaten Bantul,ID,Daerah Istimewa Yogyakarta,-7.892726,110.336279,1,60.0,DC_FAST_(50-149kW),True,Lagging
+298865,Rest Area KM 116 A Lampung Tengah,Central Lampung Regency,ID,Lampung,-5.089285,105.211763,1,50.0,DC_FAST_(50-149kW),True,Lagging
+298864,Rest Area KM 116B Lampung Tengah,Central Lampung Regency,ID,Lampung,-5.088973,105.212753,1,50.0,DC_FAST_(50-149kW),True,Lagging
+298863,El's Coffee Roastery,Bandar Lampung City,ID,Lampung,-5.393892,105.288586,1,200.0,DC_ULTRA_(>=150kW),True,Lagging
+298862,Rest Area KM 87A Tol Bakauheni - Terbanggi Besar,South Lampung Regency,ID,Lampung,-5.319136,105.265471,1,50.0,DC_FAST_(50-149kW),True,Lagging
+298861,Rest Area KM 33 A Tol Bakauheni - Terbanggi Besar,Kabupaten Lampung Selatan,ID,Lampung,-5.653534,105.584476,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+298860,Rest Area KM 33B Tol Bakauheni - Terbanggi Besar,Kabupaten Lampung Selatan,ID,Lampung,-5.652561,105.585065,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+298859,Rest Area KM 49B Tol Bakauheni - Terbanggi Besar,South Lampung Regency,ID,Lampung,-5.516515,105.521251,1,50.0,DC_FAST_(50-149kW),True,Lagging
+298858,Rest Area KM 20 A Tol Bakauheni - Terbanggi Besar,South Lampung Regency,ID,Lampung,-5.726007,105.668007,1,50.0,DC_FAST_(50-149kW),True,Lagging
+298857,Polresta Tangerang,Tangerang Regency,ID,Banten,-6.272095,106.482408,1,60.0,DC_FAST_(50-149kW),True,Lagging
+298856,Rest Area KM 43A Tol Jakarta - Merak,Tangerang Regency,ID,Banten,-6.193875,106.425466,1,200.0,DC_ULTRA_(>=150kW),True,Lagging
+298855,Rest Area KM 45B Tol Jakarta-Merak,Kabupaten Tangerang,ID,Banten,-6.186547,106.408348,1,50.0,DC_FAST_(50-149kW),True,Lagging
+298854,Rest Area KM 68B Tol Merak - Jakarta,Serang City,ID,Banten,-6.131316,106.204289,1,50.0,DC_FAST_(50-149kW),True,Lagging
+298853,Rest Area KM 68A Tol Tangerang - Merak,Serang City,ID,Banten,-6.133278,106.204925,1,200.0,DC_ULTRA_(>=150kW),True,Lagging
+298852,Wulilng Arista Bogor,Bogor Utara,ID,Jawa Barat,-6.575948,106.807394,1,7.0,AC_L1_(<7.5kW),False,Lagging
+298748,PT. PLN ULP Tulungagung,Kabupaten Tulungagung,ID,Jawa Timur,-8.056009,111.900108,1,40.0,AC_HIGH_(22-49kW),False,Lagging
+298747,Rest Area Km 678B Tol Mojokerto-Kertosono,Jombang Regency,ID,East Java,-7.536055,112.175679,1,7.0,AC_L1_(<7.5kW),False,Lagging
+298746,Rest Area KM 678A Tol Kertosono - Mojokerto,Kabupaten Jombang,ID,Jawa Timur,-7.535146,112.175233,1,7.0,AC_L1_(<7.5kW),False,Lagging
+298745,Rest Area KM 294B Tol Pejagan - Pemalang,Tegal Regency,ID,Central Java,-6.937192,109.272954,1,50.0,DC_FAST_(50-149kW),True,Lagging
+298744,Rest Area KM 287 A Tol Pejagan-Pemalang,Kabupaten Tegal,ID,Jawa Tengah,-6.933295,109.214973,1,50.0,DC_FAST_(50-149kW),True,Lagging
+298743,Rest area KM 282B Tegal,Tegal Regency,ID,Central Java,-6.943099,109.17311,1,50.0,DC_FAST_(50-149kW),True,Lagging
+298742,Rest Area KM 275A Tol Trans Jawa,Tegal Regency,ID,Central Java,-6.93241,109.109345,1,50.0,DC_FAST_(50-149kW),True,Lagging
+298741,Rest Area KM 166A Tol Cipali,Kabupaten Majalengka,ID,Jawa Barat,-6.713363,108.242231,1,100.0,DC_FAST_(50-149kW),True,Lagging
+298740,Rest Area KM 164B Tol Cipali,Majalengka Regency,ID,West Java,-6.706646,108.225466,1,60.0,DC_FAST_(50-149kW),True,Lagging
+298739,PT PLN (Persero) UP3 Tasikmalaya,Kab. Tasikmalaya,ID,Jawa Barat,-7.316107,108.230801,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+298737,PT. PLN (Persero) ULP Lumajang,Kabupaten Lumajang,ID,Jawa Timur,-8.106658,113.231568,1,47.0,AC_HIGH_(22-49kW),False,Lagging
+298736,PLN (Persero) UP3 KEDIRI,Kabupaten Kediri,ID,Jawa Timur,-7.813554,112.014198,1,47.0,AC_HIGH_(22-49kW),False,Lagging
+298544,PLN UP3 Madiun,Madiun,ID,East Java,-7.634456,111.532787,1,47.0,AC_HIGH_(22-49kW),False,Lagging
+298543,WTC Surabaya Mall,Surabaya,ID,Jawa Timur,-7.262771,112.748047,1,60.0,DC_FAST_(50-149kW),True,Lagging
+298542,PLN ULP Embong Wungu,Surabaya,ID,Jawa Timur,-7.281337,112.739919,1,25.0,AC_HIGH_(22-49kW),False,Lagging
+298435,SPKLU BNI Crea Nusadua,Badung Regency,ID,Bali,-8.78712,115.206231,1,30.0,AC_HIGH_(22-49kW),False,Lagging
+298434,SPKLU Bank Mandiri Nusadua,Kabupaten Badung,ID,Bali,-8.790188,115.211645,1,30.0,AC_HIGH_(22-49kW),False,Lagging
+298433,PT PLN (Persero) ULP Kuningan,Kuningan Regency,ID,West Java,-6.977568,108.484641,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+298432,PT. PLN (Persero) UP3 Cirebon,Kota Cirebon,ID,Jawa Barat,-6.710961,108.540325,1,120.0,DC_FAST_(50-149kW),True,Lagging
+298431,Rest Area KM45 Ciawi,Kabupaten Bogor,ID,Jawa Barat,-6.637049,106.843805,1,60.0,DC_FAST_(50-149kW),True,Lagging
+298430,Wisma PLN Bedugul,Tabanan Regency,ID,Bali,-8.268358,115.165082,1,30.0,AC_HIGH_(22-49kW),False,Lagging
+298429,PLN Tabanan,Kabupaten Tabanan,ID,Bali,-8.539559,115.127399,1,60.0,DC_FAST_(50-149kW),True,Lagging
+298420,SPKLU PLN UP3 Renggat,Indragiri Hulu,ID,Riau,-0.391856,102.43686,1,200.0,DC_ULTRA_(>=150kW),True,Lagging
+298413,PT. PLN (Persero) ULP Klungkung,Kabupaten Klungkung,ID,Bali,-8.531048,115.398382,1,50.0,DC_FAST_(50-149kW),True,Lagging
+298412,PLN ULP Mengwi,Kabupaten Badung,ID,Bali,-8.583551,115.181257,1,25.0,AC_HIGH_(22-49kW),False,Lagging
+298411,PT. PLN (Persero) Rayon Gianyar,Kabupaten Gianyar,ID,Bali,-8.543859,115.322702,1,60.0,DC_FAST_(50-149kW),True,Lagging
+298410,PT PLN (Persero) - Rayon Seririt,Kabupaten Buleleng,ID,Bali,-8.192657,114.941019,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+298409,PT PLN (Persero) ULP Singaraja,Kabupaten Buleleng,ID,Bali,-8.114122,115.091918,1,60.0,DC_FAST_(50-149kW),True,Lagging
+298408,SPKLU Kintamani,Kabupaten Bangli,ID,Bali,-8.273082,115.345597,1,30.0,AC_HIGH_(22-49kW),False,Lagging
+298407,Bank BRI KC Denpasar Renon,Kota Denpasar,ID,Bali,-8.67189,115.231768,1,30.0,AC_HIGH_(22-49kW),False,Lagging
+298406,Rumah BUMN Denpasar,Kota Denpasar,ID,Bali,-8.692712,115.218037,1,60.0,DC_FAST_(50-149kW),True,Lagging
+298405,SPKLU PLN Charging Station Munggu,Kabupaten Badung,ID,Bali,-8.624322,115.123523,1,60.0,DC_FAST_(50-149kW),True,Lagging
+298404,Perusahaan Listrik Negara (PLN). PT Persero - Rayon Negara,Kabupaten Jembrana,ID,Bali,-8.360213,114.625054,1,30.0,AC_HIGH_(22-49kW),False,Lagging
+298403,"Anjungan Betutu, Gilimanuk",Kabupaten Jembrana,ID,Bali,-8.16842,114.435176,1,50.0,DC_FAST_(50-149kW),True,Lagging
+298402,Ombé Kofie Araya,Kabupaten Malang,ID,Jawa Timur,-7.93781,112.681991,1,30.0,AC_HIGH_(22-49kW),False,Lagging
+298399,PLN ULP Bondowoso,Kabupaten Bondowoso,ID,Jawa Timur,-7.91772,113.829723,1,40.0,AC_HIGH_(22-49kW),False,Lagging
+298398,Rest Area KM 252A Brebes,Kabupaten Brebes,ID,Jawa Tengah,-6.906006,108.91516,1,50.0,DC_FAST_(50-149kW),True,Lagging
+298396,Rest Area Grand Watu Dodol,Kabupaten Banyuwangi,ID,Jawa Timur,-8.087461,114.416045,1,30.0,AC_HIGH_(22-49kW),False,Lagging
+298394,Rest Area Utama Raya Situbondo,Situbondo Regency,ID,East Java,-7.724071,113.620313,1,50.0,DC_FAST_(50-149kW),True,Lagging
+298393,PLN (UP3) Situbondo,Situbondo,ID,East Java,-7.712554,113.997179,1,100.0,DC_FAST_(50-149kW),True,Lagging
+298392,PLN ULP Probolinggo,Kota Probolinggo,ID,Jawa Timur,-7.74993,113.21722,1,100.0,DC_FAST_(50-149kW),True,Lagging
+298391,Rest Area KM 597A,Kabupaten Magetan,ID,Jawa Timur,-7.543402,111.506373,1,100.0,DC_FAST_(50-149kW),True,Lagging
+298390,Rest Area KM 597B (Sawahan - Madiun),Madiun Regency,ID,East Java,-7.545729,111.508243,1,47.0,AC_HIGH_(22-49kW),False,Lagging
+298388,Rest Area TRAVOY KM 725A,Gresik Regency,ID,East Java,-7.378487,112.54568,1,100.0,DC_FAST_(50-149kW),True,Lagging
+298387,Rest Area KM 429 A Semarang Solo,Semarang Regency,ID,Central Java,-7.129667,110.423945,1,50.0,DC_FAST_(50-149kW),True,Lagging
+298386,Rest Area KM 487B Semarang Solo,Kabupaten Boyolali,ID,Jawa Tengah,-7.523591,110.668025,1,50.0,DC_FAST_(50-149kW),True,Lagging
+298385,Rest Area KM 487A Semarang Solo,Boyolali Regency,ID,Central Java,-7.523059,110.667103,1,50.0,DC_FAST_(50-149kW),True,Lagging
+298384,"Rest Area ""Travoy"" KM 575A Solo Ngawi",Ngawi Regency,ID,East Java,-7.408684,111.381868,1,100.0,DC_FAST_(50-149kW),True,Lagging
+298383,"Rest Area ""Travoy"" KM 575B Solo Ngawi",Kabupaten Ngawi,ID,Jawa Timur,-7.410205,111.381747,1,100.0,DC_FAST_(50-149kW),True,Lagging
+298382,"Rest Area ""Travoy"" KM 538A Solo Ngawi",Kabupaten Sragen,ID,Jawa Tengah,-7.393221,111.051127,1,50.0,DC_FAST_(50-149kW),True,Lagging
+298381,"Rest Area ""Travoy"" KM 538 B Solo - Ngawi",Kabupaten Sragen,ID,Jawa Tengah,-7.394085,111.051726,1,50.0,DC_FAST_(50-149kW),True,Lagging
+298369,Rest Area KM 754A Surabaya Gempol,Sidoarjo Regency,ID,East Java,-7.425764,112.693728,1,60.0,DC_FAST_(50-149kW),True,Lagging
+298368,"Rest Area ""Travoy"" KM 66B Pandaan Malang",Pasuruan Regency,ID,East Java,-7.743934,112.71674,1,60.0,DC_FAST_(50-149kW),True,Lagging
+298367,"Rest Area ""Travoy"" KM 66A Pandaan Malang",Pasuruan,ID,Jawa Timur,-7.743708,112.718344,1,60.0,DC_FAST_(50-149kW),True,Lagging
+298366,"Rest Area ""Travoy"" KM 84A Pandaan Malang",Malang Regency,ID,East Java,-7.897223,112.698133,1,60.0,DC_FAST_(50-149kW),True,Lagging
+298239,Rest Area KM 792B Gempol Pasuruan,Pasuruan,ID,Jawa Timur,-7.655518,112.854714,1,50.0,DC_FAST_(50-149kW),True,Lagging
+298238,"Rest Area ""Travoy"" KM 792A Gempol Pasuruan",Pasuruan,ID,East Java,-7.652943,112.854084,1,50.0,DC_FAST_(50-149kW),True,Lagging
+298237,Rest Area Km 319B Pemalang,Kabupaten Pemalang,ID,Jawa Tengah,-6.925076,109.495075,1,100.0,DC_FAST_(50-149kW),True,Lagging
+298232,"Rest Area ""Travoy"" KM 391 A Batang Semarang",Kabupaten Kendal,ID,Jawa Tengah,-6.98644,110.123187,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+298230,"Rest Area ""Travoy"" KM 360 B Batang Semarang",Kabupaten Batang,ID,Jawa Tengah,-6.921258,109.86356,1,50.0,DC_FAST_(50-149kW),True,Lagging
+298227,"Rest Area ""Travoy"" KM 389 B Batang Semarang",Kabupaten Kendal,ID,Jawa Tengah,-6.984765,110.10456,1,100.0,DC_FAST_(50-149kW),True,Lagging
+298225,Rest Area KM 149B,Bandung,ID,Jawa Barat,-6.969083,107.703258,1,50.0,DC_FAST_(50-149kW),True,Lagging
+298224,Rest Area KM 147A Cipularang,Bandung,ID,West Java,-6.967814,107.681211,1,50.0,DC_FAST_(50-149kW),True,Lagging
+298223,Rest Area KM 97B Cipularang,Kabupaten Purwakarta,ID,Jawa Barat,-6.674333,107.4391,1,60.0,DC_FAST_(50-149kW),True,Lagging
+298222,Rest Area KM 72B Cipularang,Purwakarta,ID,West Java,-6.468474,107.444404,1,47.0,AC_HIGH_(22-49kW),False,Lagging
+298220,Rest Area KM 72 A Cipularang,Kabupaten Purwakarta,ID,Jawa Barat,-6.46623,107.44468,1,25.0,AC_HIGH_(22-49kW),False,Lagging
+297469,Pemdopo garut,Garut,ID,Jawa Barat,-7.217016,107.901631,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+297468,Jalan Kiansantang,Garut,ID,Jawa Barat,-7.217105,107.901643,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+289148,Rest Area KM 456B Pendopo,,ID,Jawa Tengah,-7.326975,110.531352,3,120.0,DC_FAST_(50-149kW),True,Lagging
+289147,Rest Area KM 695A Teras Melati,,ID,Jawa Timur,-7.48515,112.311234,2,120.0,DC_FAST_(50-149kW),True,Lagging
+289146,Rest Area KM 626B,,ID,Jawa Timur,-7.549571,111.757575,5,25.0,AC_HIGH_(22-49kW),False,Developing
+289145,Rest Area KM 626A,,ID,Jawa Timur,-7.54784,111.758084,4,25.0,AC_HIGH_(22-49kW),False,Lagging
+289144,"Rest Area ""Travoy"" KM 519B Solo Ngaw",Masaran,ID,Jawa Tengah,-7.480416,110.920521,2,50.0,DC_FAST_(50-149kW),True,Lagging
+289143,Rest Area KM 519A,Masaran,ID,Jawa Tengah,-7.480904,110.918983,2,50.0,DC_FAST_(50-149kW),True,Lagging
+288980,Hyundai Magelang,,ID,Jawa Tengah,-7.495846,110.223416,1,7.0,AC_L1_(<7.5kW),False,Lagging
+280382,SPKLU Kota Baru Parahyangan,Kabupaten Bandung Barat,ID,Jawa Barat,-6.867597,107.464968,2,25.0,AC_HIGH_(22-49kW),False,Lagging
+279894,Starbucks Metland Cyber City,Tangerang,ID,Banten,-6.197892,106.703649,2,22.0,AC_HIGH_(22-49kW),False,Lagging
+278712,Marketing Office Summarecon Karawang,Karawang,ID,Jawa Barat,-6.322721,107.338588,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+278711,SPKLU Centre Point PIK 2,Kabupaten Tangerang,ID,Banten,-6.049832,106.694779,2,200.0,DC_ULTRA_(>=150kW),True,Lagging
+274708,Ikea Kota Baru Parahyangan,Kab Bandung Barat,ID,Jawa Barat,-6.867366,107.466314,2,22.0,AC_HIGH_(22-49kW),False,Lagging
+274706,Ciputra Int. Puri Amsterdam Apartment,Jakarta Barat,ID,DKI Jakarta,-6.173004,106.730949,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+274705,Ciputra Int. Tokopedia Care Offices,Jakarta Barat,ID,DKI Jakarta,-6.172921,106.730318,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+270821,SPKLU UP3 Belitung,Belitung,ID,Bangka Belitung,-2.742421,107.661718,2,50.0,DC_FAST_(50-149kW),True,Lagging
+270820,SPKLU UP3 Surakarta,Surakarta,ID,Jawa Tengah,-7.562343,110.798072,2,100.0,DC_FAST_(50-149kW),True,Lagging
+270819,Candi Prambanan,Klaten,ID,Jawa Tengah,-7.754247,110.494011,2,60.0,DC_FAST_(50-149kW),True,Lagging
+270818,SPKLU UP3 Yogyakarta,Bantul,ID,Yogyakarta,-7.810223,110.403042,2,100.0,DC_FAST_(50-149kW),True,Lagging
+270817,SPKLU PLN UID Jawa Tengah & DI Yogyakarta,Semarang,ID,Jawa Tengah,-7.030422,110.417369,2,100.0,DC_FAST_(50-149kW),True,Lagging
+270816,SPKLU UP3 Semarang,Semarang,ID,Jawa Tengah,-6.976812,110.416074,2,200.0,DC_ULTRA_(>=150kW),True,Lagging
+270815,Balai Kota Semarang,Semarang,ID,Jawa Tengah,-6.982248,110.412515,2,200.0,DC_ULTRA_(>=150kW),True,Lagging
+270814,SPKLU ULP Wates,Kulon Progo,ID,Yogyakarta,-7.866043,110.150738,2,200.0,DC_ULTRA_(>=150kW),True,Lagging
+270813,Candi Borobudur,Magelang,ID,Jawa Tengah,-7.605276,110.208128,2,60.0,DC_FAST_(50-149kW),True,Lagging
+270812,SPKLU PLN ULP Magelang Kota,Magelang,ID,Jawa Tengah,-7.464623,110.223956,2,30.0,AC_HIGH_(22-49kW),False,Lagging
+270811,Rest Area KM 277A Tol Bakauheni - Kayu Agung,Ogan Komering Ilir,ID,Sumatra Selatan,-3.746617,105.052494,2,60.0,DC_FAST_(50-149kW),True,Lagging
+270810,Rest Area KM 379A Batang,Batang,ID,Jawa Tengah,-6.95789,110.014619,2,200.0,DC_ULTRA_(>=150kW),True,Lagging
+270809,Rest Area KM 269B Tol Bakauheni - Kayu Agung,Ogan Komering Ilir,ID,Sumatra Selatan,-3.81095,105.094294,2,60.0,DC_FAST_(50-149kW),True,Lagging
+270808,SPKLU ULP Purwokerto Kota,Banyumas,ID,Jawa Tengah,-7.43209,109.258005,2,50.0,DC_FAST_(50-149kW),True,Lagging
+270807,Rest Area KM 172B Trans Sumatra,Tulang Bawang,ID,Lampung,-4.60561,105.181872,2,50.0,DC_FAST_(50-149kW),True,Lagging
+270806,Rest Area KM 163A Trans Sumatra,Lampung,ID,Lampung,-4.682157,105.191412,2,60.0,DC_FAST_(50-149kW),True,Lagging
+270805,Rest Area KM 87B Trans Sumatra,Lampung,ID,Lampung,-5.31871,105.26654,1,200.0,DC_ULTRA_(>=150kW),True,Lagging
+270804,Rest Area KM 229B Kanci Pejagan,Cirebon,ID,Jawa Barat,-6.884719,108.707083,2,200.0,DC_ULTRA_(>=150kW),True,Lagging
+270803,Rest Area KM 228A Kanci Pejagan,Cirebon,ID,Jawa Barat,-6.881331,108.703379,2,200.0,DC_ULTRA_(>=150kW),True,Lagging
+270802,SPKLU PLN ULP Banjar,Banjar,ID,Jawa Barat,-7.371547,108.536131,2,50.0,DC_FAST_(50-149kW),True,Lagging
+270801,Rest Area KM 208B Palikanci,Cirebon,ID,Jawa Barat,-6.778741,108.567086,1,50.0,DC_FAST_(50-149kW),True,Lagging
+270800,Rest Area 49A Trans Sumatra,Lampung,ID,Lampung,-5.517683,105.520561,2,200.0,DC_ULTRA_(>=150kW),True,Lagging
+270799,Rest Area KM 20B Trans Sumatra,Lampung,ID,Lampung,-5.725518,105.668331,2,200.0,DC_ULTRA_(>=150kW),True,Lagging
+270798,SPKLU ULP Limbangan,Garut,ID,Jawa Barat,-7.034533,107.98531,2,60.0,DC_FAST_(50-149kW),True,Lagging
+270797,Rest Area KM 130A Cipali,Indramayu,ID,Jawa Barat,-6.575663,107.960019,2,200.0,DC_ULTRA_(>=150kW),True,Lagging
+270796,Pelabuhan Merak,Cilegon,ID,Banten,-5.935755,106.000099,2,60.0,DC_FAST_(50-149kW),True,Lagging
+270795,Rest Area KM 101B Cipali,Subang,ID,Jawa Barat,-6.509309,107.718032,2,200.0,DC_ULTRA_(>=150kW),True,Lagging
+270794,SPKLU UP3 Bandung,Bandung,ID,Jawa Barat,-6.948926,107.611788,2,200.0,DC_ULTRA_(>=150kW),True,Lagging
+270793,SPKLU ULP Braga Heritage,Bandung,ID,Jawa Barat,-6.92017,107.609858,2,200.0,DC_ULTRA_(>=150kW),True,Lagging
+270791,SPKLU UID Jawa Barat,Bandung,ID,Jawa Barat,-6.920993,107.608436,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+270790,Hyundai Cilegon,Cilegon,ID,Banten,-6.034559,106.083914,1,7.0,AC_L1_(<7.5kW),False,Lagging
+270789,Hyundai Cihampelas,Bandung,ID,Jawa Barat,-6.90665,107.604649,1,7.0,AC_L1_(<7.5kW),False,Lagging
+270788,SPKLU ULP Lembang,Bandung,ID,Jawa Barat,-6.818327,107.622015,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+270787,SPKLU ULP Kopo,Bandung,ID,Jawa Barat,-6.933878,107.571433,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+270786,SPKLU ULP Bandung Utara,Bandung,ID,Jawa Barat,-6.879072,107.597316,2,60.0,DC_FAST_(50-149kW),True,Lagging
+270785,SPKLU ULP Bandung Barat,Bandung,ID,Jawa Barat,-6.908651,107.578975,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+270784,Hyundai Pasteur,Bandung,ID,Jawa Barat,-6.892705,107.581978,1,7.0,AC_L1_(<7.5kW),False,Lagging
+270783,SPKLU ULP Cimahi Selatan,Cimahi,ID,Jawa Barat,-6.898616,107.554145,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+270782,SPKLU ULP Prima Cibabat,Cimahi,ID,Jawa Barat,-6.875762,107.544861,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+270781,SPKLU UP3 Cimahi,Cimahi,ID,Jawa Barat,-6.870858,107.536438,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+270780,SPKLU UP3 Banten Utara,Serang,ID,Banten,-6.11582,106.153016,1,7.0,AC_L1_(<7.5kW),False,Lagging
+270779,SPKLU ULP Cililin,Bandung,ID,Jawa Barat,-6.947925,107.467046,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+270778,Hyundai Serang,Serang,ID,Banten,-6.150408,106.158768,1,7.0,AC_L1_(<7.5kW),False,Lagging
+270777,Kawasan Pusat Pemerintahan Provinsi Banten (KP3B),Serang,ID,Banten,-6.173695,106.156542,2,60.0,DC_FAST_(50-149kW),True,Lagging
+270776,SPKLU ULP Padalarang,Bandung,ID,Jawa Barat,-6.838797,107.487533,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+270775,SPKLU ULP Cikampek,Karawang,ID,Jawa Barat,-6.41192,107.46432,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+270773,SPKLU UP3 Purwakarta,Purwakarta,ID,Jawa Barat,-6.554622,107.445731,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+270772,Rest Area 88A Cipularang,Purwakarta,ID,Jawa Barat,-6.602105,107.427436,2,200.0,DC_ULTRA_(>=150kW),True,Lagging
+270771,Rest Area 88B Cipularang,Purwakarta,ID,Jawa Barat,-6.603489,107.424007,2,200.0,DC_ULTRA_(>=150kW),True,Lagging
+270770,SPKLU ULP Rajamandala,Bandung,ID,Jawa Barat,-6.833166,107.346814,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+270769,Rest Area 62B Cikampek,Karawang,ID,Jawa Barat,-6.389034,107.394731,2,200.0,DC_ULTRA_(>=150kW),True,Lagging
+270768,SPKLU ULP Cikande,Serang,ID,Banten,-6.17503,106.337456,1,200.0,DC_ULTRA_(>=150kW),True,Lagging
+270766,Rest Area KM 57A Cikampek,Karawang,ID,Jawa Barat,-6.368106,107.360366,2,200.0,DC_ULTRA_(>=150kW),True,Lagging
+270764,SPKLU UP3 Karawang,Karawang,ID,Jawa Barat,-6.305672,107.292169,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+270763,SPKLU ULP Karawang Kota,Karawang,ID,Jawa Barat,-6.307703,107.292722,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+270762,Hyundai Karawang,Karawang,ID,Jawa Barat,-6.328759,107.2923,1,7.0,AC_L1_(<7.5kW),False,Lagging
+270760,Perumahan Grand Taruma,Karawang,ID,Jawa Barat,-6.305614,107.278223,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+270759,SPKLU ULP Ciranjang,Cianjur,ID,Jawa Barat,-6.813587,107.251648,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+270758,SPKLU ULP Pelabuhan Ratu,Sukabumi,ID,Jawa Barat,-6.987018,106.555637,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+270757,Terrace 8 Suvarna Sutera,Tangerang,ID,Banten,-6.180007,106.494747,1,7.0,AC_L1_(<7.5kW),False,Lagging
+270756,SPKLU ULP Lemahabang,Bekasi,ID,Jawa Barat,-6.283463,107.168344,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+270755,SPKLU UP3 Cikupa,Tangerang,ID,Banten,-6.22404,106.503517,1,7.0,AC_L1_(<7.5kW),False,Lagging
+270754,Hyundai Cianjur,Cianjur,ID,Jawa Barat,-6.809769,107.150528,1,7.0,AC_L1_(<7.5kW),False,Lagging
+270753,Aeropolis Apartment,Tangerang,ID,Banten,-6.143971,106.631309,2,25.0,AC_HIGH_(22-49kW),False,Lagging
+270752,Hyundai Sukabumi,Sukabumi,ID,Jawa Barat,-6.956053,106.909223,1,7.0,AC_L1_(<7.5kW),False,Lagging
+270751,SPKLU UP3 Cianjur,Cianjur,ID,Jawa Barat,-6.813695,107.137113,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+270750,SPKLU ULP Tanjung Priok,Jakarta Utara,ID,Jakarta,-6.121315,106.893029,1,7.0,AC_L1_(<7.5kW),False,Lagging
+270749,Hyundai Cikarang,Bekasi,ID,Jawa Barat,-6.290761,107.150956,1,7.0,AC_L1_(<7.5kW),False,Lagging
+270748,Hyundai Pluit,Jakarta Utara,ID,Jakarta,-6.117983,106.789026,1,7.0,AC_L1_(<7.5kW),False,Lagging
+270747,SPKLU ULP Cibitung,Bekasi,ID,Jawa Barat,-6.266786,107.130734,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+270746,Indomobil Nissan Datsun Kapuk,Jakarta Utara,ID,Jakarta,-6.124932,106.754965,2,25.0,AC_HIGH_(22-49kW),False,Lagging
+270745,Kantor Pemda Cianjur,Cianjur,ID,Jawa Barat,-6.82289,107.138634,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+270744,SPKLU ULP Cikembar,Sukabumi,ID,Jawa Barat,-6.951273,106.769466,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+270743,Hyundai Sunter,Jakarta Utara,ID,Jakarta,-6.131189,106.855485,1,7.0,AC_L1_(<7.5kW),False,Lagging
+270742,SPKLU UP3 Cikarang,Bekasi,ID,Jawa Barat,-6.365491,107.179709,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+270741,SPKLU ULP Sukaraja,Sukabumi,ID,Jawa Barat,-6.917563,106.965159,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+270740,SPKLU UP3 Bandengan,Jakarta Utara,ID,Jakarta,-6.136486,106.79711,2,60.0,DC_FAST_(50-149kW),True,Lagging
+270739,KFC Artha Gading,Jakarta Utara,ID,Jakarta,-6.147187,106.897355,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+270738,Mall Ciputra Tangerang,Tangerang,ID,Banten,-6.261069,106.524949,2,60.0,DC_FAST_(50-149kW),True,Lagging
+270737,SPKLU UP3 Sukabumi,Sukabumi,ID,Jawa Barat,-6.913307,106.932655,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+270736,Hyundai Kelapa Gading,Jakarta Utara,ID,Jakarta,-6.154215,106.893868,1,7.0,AC_L1_(<7.5kW),False,Lagging
+270735,Aeon Mall Jakarta Garden City,Jakarta Timur,ID,Jakarta,-6.172188,106.952221,2,60.0,DC_FAST_(50-149kW),True,Lagging
+270734,SPKLU ULP Sukabumi,Sukabumi,ID,Jawa Barat,-6.920331,106.932103,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+270733,SPKLU UID Banten,Tangerang,ID,Banten,-6.18446,106.642859,2,50.0,DC_FAST_(50-149kW),True,Lagging
+270732,Tangcity Mall,Tangerang,ID,Banten,-6.193933,106.6341,2,25.0,AC_HIGH_(22-49kW),False,Lagging
+270731,SPKLU ULP Tambun,Bekasi,ID,Jawa Barat,-6.24693,107.062834,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+270730,Pool Damri Kemayoran,Jakarta Pusat,ID,Jakarta,-6.159659,106.848529,1,180.0,DC_ULTRA_(>=150kW),True,Lagging
+270729,SPKLU ULP Cikarang Kota,Bekasi,ID,Jawa Barat,-6.328937,107.126688,2,22.0,AC_HIGH_(22-49kW),False,Lagging
+270728,Hyundai Sawah Besar,Jakarta Pusat,ID,Jakarta,-6.160122,106.822854,1,7.0,AC_L1_(<7.5kW),False,Lagging
+270727,Hyundai Pegangsaan,Jakarta Utara,ID,Jakarta,-6.174608,106.913916,1,7.0,AC_L1_(<7.5kW),False,Lagging
+270726,SPKLU ULP Medan Satria,Bekasi,ID,Jawa Barat,-6.198201,106.974636,2,22.0,AC_HIGH_(22-49kW),False,Lagging
+267690,BTN Tower,Jakarta Pusat,ID,Jakarta,-6.167216,106.819918,2,25.0,AC_HIGH_(22-49kW),False,Lagging
+267689,Asuransi Ramayana Claim Center,Jakarta Pusat,ID,Jakarta,-6.169244,106.81893,2,25.0,AC_HIGH_(22-49kW),False,Lagging
+267688,Hyundai Summarecon Bekasi,Bekasi,ID,Jawa Barat,-6.22584,107.003437,1,7.0,AC_L1_(<7.5kW),False,Lagging
+267687,Hyundai Kebon Jeruk,Jakarta Barat,ID,Jakarta,-6.17409,106.765294,1,7.0,AC_L1_(<7.5kW),False,Lagging
+267686,SPKLU UP3 Cempaka Putih,Jakarta Pusat,ID,Jakarta,-6.181388,106.875331,2,60.0,DC_FAST_(50-149kW),True,Lagging
+267685,SPKLU UID Jakarta Raya,Jakarta Pusat,ID,Jakarta,-6.180358,106.833227,2,87.5,DC_FAST_(50-149kW),True,Lagging
+267684,Kantor Kementrian BUMN,Jakarta Pusat,ID,Jakarta,-6.181561,106.825534,2,50.0,DC_FAST_(50-149kW),True,Lagging
+267683,SPKLU ULP Cibadak,Sukabumi,ID,Jawa Barat,-6.896424,106.81931,2,22.0,AC_HIGH_(22-49kW),False,Lagging
+267682,Hyundai Lippo Mall Puri,Jakarta Barat,ID,Jakarta,-6.187712,106.738645,1,7.0,AC_L1_(<7.5kW),False,Lagging
+267681,SPKLU ULP Bekasi Kota,Bekasi,ID,Jawa Barat,-6.239111,106.993487,2,22.0,AC_HIGH_(22-49kW),False,Lagging
+267680,Hyundai Pramuka,Jakarta Pusat,ID,Jakarta,-6.192018,106.866794,1,7.0,AC_L1_(<7.5kW),False,Lagging
+267679,SPKLU UP3 Bekasi,Bekasi,ID,Jawa Barat,-6.252794,107.010436,2,30.0,AC_HIGH_(22-49kW),False,Lagging
+267678,Hyundai Summarecon Serpong,Tangerang,ID,Banten,-6.240494,106.628649,1,7.0,AC_L1_(<7.5kW),False,Lagging
+267677,Rest Area KM 13A Pinang,Tangerang,ID,Banten,-6.214338,106.682399,1,60.0,DC_FAST_(50-149kW),True,Lagging
+267676,Hyundai Serpong,Tangerang Selatan,ID,Banten,-6.232799,106.642869,1,7.0,AC_L1_(<7.5kW),False,Lagging
+267675,KFC Jalan Panjang,Jakarta Barat,ID,Jakarta,-6.201174,106.769551,2,22.0,AC_HIGH_(22-49kW),False,Lagging
+267674,SPKLU ULP Bantar Gebang,Bekasi,ID,Jawa Barat,-6.2672,107.01677,2,22.0,AC_HIGH_(22-49kW),False,Lagging
+267673,Graha BNI,Jakarta Pusat,ID,Jakarta,-6.203433,106.821275,2,25.0,AC_HIGH_(22-49kW),False,Lagging
+267672,Menara BNI,Jakarta Pusat,ID,Jakarta,-6.203735,106.803036,2,25.0,AC_HIGH_(22-49kW),False,Lagging
+267671,Hyundai Joglo,Jakarta Barat,ID,Jakarta,-6.220748,106.737495,1,7.0,AC_L1_(<7.5kW),False,Lagging
+267670,SPKLU UP3 Jatinegara,Jakarta Timur,ID,Jakarta,-6.221296,106.868531,2,7.0,AC_L1_(<7.5kW),False,Lagging
+267669,Brilian Center,Jakarta Pusat,ID,Jakarta,-6.216435,106.814139,2,25.0,AC_HIGH_(22-49kW),False,Lagging
+267668,Plaza Mandiri,Jakarta Selatan,ID,Jakarta,-6.224947,106.814519,2,25.0,AC_HIGH_(22-49kW),False,Lagging
+267667,Hyundai Kalimalang,Jakarta Timur,ID,Jakarta,-6.247918,106.928899,1,7.0,AC_L1_(<7.5kW),False,Lagging
+267666,Kantor Dinas Ketenagalistrikan ESDM,Jakarta Selatan,ID,Jakarta,-6.226042,106.833478,2,30.0,AC_HIGH_(22-49kW),False,Lagging
+267665,SPKLU ULP Mustika Jaya,Bekasi,ID,Jawa Barat,-6.320276,107.033514,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+267664,SPKLU UP3 Kebon Jeruk,Tangerang,ID,Banten,-6.234286,106.738261,2,60.0,DC_FAST_(50-149kW),True,Lagging
+267663,Summitmas Tower 1,Jakarta Selatan,ID,Jakarta,-6.22671,106.803706,2,50.0,DC_FAST_(50-149kW),True,Lagging
+267662,SPKLU ULP Jasinga,Bogor,ID,Jawa Barat,-6.520242,106.498482,2,22.0,AC_HIGH_(22-49kW),False,Lagging
+267661,Hyundai DI Panjaitan,Jakarta Timur,ID,Jakarta,-6.235475,106.878093,1,7.0,AC_L1_(<7.5kW),False,Lagging
+267660,Hyundai Simprug,Jakarta Selatan,ID,Jakarta,-6.232137,106.788039,1,7.0,AC_L1_(<7.5kW),False,Lagging
+267659,Rest Area 6B Cikampek,Bekasi,ID,Jawa Barat,-6.25883,106.928302,2,25.0,AC_HIGH_(22-49kW),False,Lagging
+265432,Hyundai Narogong,Bekasi,ID,Jawa Barat,-6.291567,106.984655,1,7.0,AC_L1_(<7.5kW),False,Lagging
+265431,SPKLU ULP Cipanas,Cianjur,ID,Jawa Barat,-6.73474,107.04168,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+265430,Wisma Indomobil,Jakarta Timur,ID,Jakarta,-6.242466,106.863619,1,25.0,AC_HIGH_(22-49kW),False,Lagging
+265429,SPKLU UP3 Bulungan,Jakarta Selatan,ID,Jakarta,-6.239521,106.798041,2,60.0,DC_FAST_(50-149kW),True,Lagging
+265428,Shell Pluit,Jakarta Utara,ID,Jakarta,-6.1257,106.798439,1,50.0,DC_FAST_(50-149kW),True,Lagging
+265427,Shell Pacific Place,Jakarta Selatan,ID,Jakarta,-6.224868,106.808052,3,11.0,AC_L2_(7.5-21kW),False,Lagging
+265426,Rest Area KM 21B Jagorawi,Bogor,ID,Jawa Barat,-6.43465,106.893591,2,50.0,DC_FAST_(50-149kW),True,Lagging
+265425,SPKLU,Jakarta Selatan,ID,Jakarta,-6.240621,106.803348,1,200.0,DC_ULTRA_(>=150kW),True,Lagging
+265424,Hyundai BSD City,Tangerang,ID,Banten,-6.288346,106.64628,1,7.0,AC_L1_(<7.5kW),False,Lagging
+265423,Hyundai Pancoran,Jakarta Selatan,ID,Jakarta,-6.24568,106.843288,1,7.0,AC_L1_(<7.5kW),False,Lagging
+260804,L'Avenue Apartment,Jakarta Selatan,ID,Jakarta,-6.248308,106.843074,1,50.0,DC_FAST_(50-149kW),True,Lagging
+260803,Hyundai Bintaro,Tangerang,ID,Banten,-6.273019,106.698535,1,7.0,AC_L1_(<7.5kW),False,Lagging
+260802,Aeon Mall BSD,Tangerang,ID,Banten,-6.305325,106.643515,1,25.0,AC_HIGH_(22-49kW),False,Lagging
+260801,SPKLU UP3 Lenteng Agung,Jakarta Selatan,ID,Jakarta,-6.254105,106.83567,1,7.0,AC_L1_(<7.5kW),False,Lagging
+260800,SPKLU Puslitbang,Jakarta Selatan,ID,Jakarta,-6.254992,106.833279,1,50.0,DC_FAST_(50-149kW),True,Lagging
+260799,Hyundai Pondok Gede,Bekasi,ID,Jawa Barat,-6.283663,106.927978,1,7.0,AC_L1_(<7.5kW),False,Lagging
+260798,Hyundai Mampang,Jakarta Selatan,ID,Jakarta,-6.26424,106.830759,1,7.0,AC_L1_(<7.5kW),False,Lagging
+260797,Hyundai Lippo Plaza Kramat Jati,Jakarta Selatan,ID,Jakarta,-6.271002,106.868093,1,7.0,AC_L1_(<7.5kW),False,Lagging
+260796,SPKLU ULP Cimacan,Cianjur,ID,Jawa Barat,-6.713831,107.022665,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+260795,SPKLU ULP Cicurug,Sukabumi,ID,Jawa Barat,-6.799674,106.775422,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+260794,SPKLU ULP Jonggol,Bogor,ID,Jawa Barat,-6.462196,107.059234,1,7.0,AC_L1_(<7.5kW),False,Lagging
+260793,Hyundai Fatmawati,Jakarta Selatan,ID,Jakarta,-6.283868,106.795732,1,7.0,AC_L1_(<7.5kW),False,Lagging
+260792,Taman Mini Indonesia Indah,Jakarta Timur,ID,Jakarta,-6.302446,106.895156,1,60.0,DC_FAST_(50-149kW),True,Lagging
+260791,Hyundai Ciputat,Tangerang Selatan,ID,Banten,-6.295898,106.765136,1,7.0,AC_L1_(<7.5kW),False,Lagging
+260790,Kantor Pos Fatmawati,Jakarta Selatan,ID,Jakarta,-6.294529,106.794774,2,25.0,AC_HIGH_(22-49kW),False,Lagging
+260789,Aeon Mall Tanjung Barat,Jakarta Selatan,ID,Jakarta,-6.305636,106.840534,1,50.0,DC_FAST_(50-149kW),True,Lagging
+260788,Hyundai Cilandak,Jakarta Selatan,ID,Jakarta,-6.308144,106.781007,1,7.0,AC_L1_(<7.5kW),False,Lagging
+260787,Rest Area KM 10.6 A Jagorawi,Jakarta Timur,ID,Jakarta,-6.340207,106.89065,1,60.0,DC_FAST_(50-149kW),True,Lagging
+260728,SPKLU UP3 Gunung Putri,Bogor,ID,Jawa Barat,-6.459078,106.896809,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+260727,SPKLU UP3 Gunung Putri,Bogor,ID,Jawa Barat,-6.44178,106.916985,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+260726,SPKLU UIP JBB,Depok,ID,Jawa Barat,-6.343766,106.788412,3,25.0,AC_HIGH_(22-49kW),False,Lagging
+260725,SPKLU ULP Cimanggis,Depok,ID,Jawa Barat,-6.37573,106.863503,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+260724,Hyundai Cibubur,Bekasi,ID,Jawa Barat,-6.37969,106.923013,1,7.0,AC_L1_(<7.5kW),False,Lagging
+260723,Hyundai Cimanggis,Depok,ID,Jawa Barat,-6.358729,106.859641,1,7.0,AC_L1_(<7.5kW),False,Lagging
+260722,Hyundai Margonda,Depok,ID,Jawa Barat,-6.380846,106.830795,1,7.0,AC_L1_(<7.5kW),False,Lagging
+260721,SPKLU ULP Sawangan,Depok,ID,Jawa Barat,-6.412207,106.734798,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+260720,SPKLU ULP Depok Kota,Depok,ID,Jawa Barat,-6.395851,106.836791,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+260719,SPKLU ULP Cipayung,Bogor,ID,Jawa Barat,-6.650765,106.895833,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+260718,SPKLU ULP Leuwiliang,Bogor,ID,Jawa Barat,-6.56435,106.678048,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+260717,SPKLU UP3 Depok,Depok,ID,Jawa Barat,-6.418309,106.826698,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+260716,SPKLU ULP Citereup,Bogor,ID,Jawa Barat,-6.459034,106.896796,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+260714,Hyundai Tajur,Bogor,ID,Jawa Barat,-6.629904,106.824637,1,7.0,AC_L1_(<7.5kW),False,Lagging
+260713,SPKLU ULP Cibinong,Bogor,ID,Jawa Barat,-6.476171,106.86371,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+260712,SPKLU ULP Bojonggede,Bogor,ID,Jawa Barat,-6.477394,106.803748,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+260710,SPKLU ULP Bogor Kota,Bogor,ID,Jawa Barat,-6.595922,106.789547,1,100.0,DC_FAST_(50-149kW),True,Lagging
+260709,SPKLU ULP Bogor Barat,Bogor,ID,Jawa Barat,-6.51596,106.756784,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+260708,Balai Kota Bogor,Bogor,ID,Jawa Barat,-6.595218,106.793694,1,22.0,AC_HIGH_(22-49kW),False,Lagging
+260707,Hyundai Sholeh Iskandar,Bogor,ID,Jawa Barat,-6.54143,106.771514,1,7.0,AC_L1_(<7.5kW),False,Lagging
+260706,SPKLU UP3 Bogor,Bogor,ID,Jawa Barat,-6.572098,106.808555,2,200.0,DC_ULTRA_(>=150kW),True,Lagging
+210921,Rest Area KM 207A Palikanci,Cirebon,ID,Jawa Barat,-6.775591,108.562948,1,50.0,DC_FAST_(50-149kW),True,Lagging
+195384,Shell Antasari,Jakarta Selatan,ID,Jakarta,-6.256409,106.808334,1,50.0,DC_FAST_(50-149kW),True,Lagging

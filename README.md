@@ -1,8 +1,14 @@
 # CAPSTONE EV CHARGING ANALYSIS IN INDONESIA
-# EV Charging Infrastructure in Indonesia: Strategic Analysis for Investment and Policy Acceleration
+# EVTure Indonesia: Accelerating Indonesia’s EV Infrastructure for a Smarter and Greener Future
 
 ## Project Overview
-This project analyzes the readiness and distribution of electric vehicle (EV) charging stations in Indonesia using publicly available global data. The goal is to identify infrastructure gaps, classify regional readiness, and generate business-oriented recommendations for private sector investment and public policy.
+Indonesia’s EV charging infrastructure is critically uneven. Based on 2025 classification data, 99.8% of stations (411 units) are categorized as Lagging, with only 1 station (0.2%) marked as Developing, and none meeting the Ready threshold. This imbalance poses a major barrier to mass EV adoption, especially in high-mobility zones like Jakarta, Surabaya, and Bali.
+To address this, we propose EVTure Indonesia, a strategic infrastructure initiative offering four integrated solutions:
+- Smart Deployment Engine – AI-powered logic to identify optimal charger placement
+- Bundled Charging Partnerships – Collaborations with malls, hotels, and campuses to increase visibility and utilization
+- Modular Infrastructure Model – Scalable hardware deployment with reduced CAPEX
+- Data-Driven Monitoring – Real-time performance tracking and predictive maintenance
+These solutions directly support SDG 7 (Affordable Clean Energy), SDG 9 (Industry & Infrastructure), SDG 11 (Sustainable Cities), SDG 13 (Climate Action), and SDG 17 (Partnerships for the Goals)
 
 ## Raw Dataset
 - [charging_stations_2025_world.csv](./charging_stations_2025_world.csv): Global dataset of EV charging stations in 2025

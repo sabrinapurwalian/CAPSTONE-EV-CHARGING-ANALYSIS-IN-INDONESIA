@@ -8,6 +8,7 @@ To address this, we propose EVTure Indonesia, a strategic infrastructure initiat
 - Bundled Charging Partnerships – Collaborations with malls, hotels, and campuses to increase visibility and utilization
 - Modular Infrastructure Model – Scalable hardware deployment with reduced CAPEX
 - Data-Driven Monitoring – Real-time performance tracking and predictive maintenance
+
 These solutions directly support SDG 7 (Affordable Clean Energy), SDG 9 (Industry & Infrastructure), SDG 11 (Sustainable Cities), SDG 13 (Climate Action), and SDG 17 (Partnerships for the Goals)
 
 ## Raw Dataset
